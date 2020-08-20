@@ -1,1 +1,1 @@
-# fun-o-js
+# function-no-js
